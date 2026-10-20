@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HeyCherif/HeyCherif/main/assets/banner.svg" alt="HeyCherif — Turning ideas into apps" width="100%" />
+<img src="https://raw.githubusercontent.com/HeyCherif/HeyCherif/bc7b7982d343fcb16589df76c3bcbcb15d2c1ce1/assets/banner.svg" alt="HeyCherif — Turning ideas into apps" width="100%" />
 
 ### Turning ideas into apps.
 
