@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HeyCherif/HeyCherif/main/assets/banner.svg" alt="HeyCherif — Des idées aux applications" width="100%" />
+<img src="https://raw.githubusercontent.com/HeyCherif/HeyCherif/main/assets/banner.svg" alt="HeyCherif — Turning ideas into apps" width="100%" />
 
-### Des idées aux applications.
+### Turning ideas into apps.
 
-**Applications desktop · Intelligence artificielle · Outils créatifs**
+**Desktop Apps · Artificial Intelligence · Creative Tools**
 
-Je crée des outils pour jouer, traduire et donner vie aux histoires.
+I build tools to play, translate, and bring stories to life.
 
 [![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=67E8F9)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=A78BFA)](https://www.typescriptlang.org/)
@@ -18,28 +18,28 @@ Je crée des outils pour jouer, traduire et donner vie aux histoires.
 
 ---
 
-### Ce que je construis
+### What I’m building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 #### 🎮 Nexus Launcher
-Une bibliothèque visuelle pour retrouver et lancer ses jeux PC. Navigation clavier et manette, jaquettes et suivi des sessions.
+A visual home for your PC games. Keyboard and controller navigation, cover art, and play session tracking.
 
 **Desktop · React · Gaming**
 
-[Explorer le projet →](https://github.com/HeyCherif/Nexus-Launcher)
+[Explore project →](https://github.com/HeyCherif/Nexus-Launcher)
 
 </td>
 <td width="50%" valign="top">
 
 #### 📖 Renkavi
-Un atelier pour traduire des documents et des récits illustrés : OCR, correction des textes et export.
+A workspace for translating documents and illustrated stories, with OCR, text editing, and export.
 
-**Python · OCR · Traduction**
+**Python · OCR · Translation**
 
-[Explorer le projet →](https://github.com/HeyCherif/Renkavi)
+[Explore project →](https://github.com/HeyCherif/Renkavi)
 
 </td>
 </tr>
@@ -47,37 +47,37 @@ Un atelier pour traduire des documents et des récits illustrés : OCR, correcti
 <td width="50%" valign="top">
 
 #### 🎙️ DubRoom Studio
-Un studio local en développement pour préparer la transcription, la traduction et le doublage de vidéos.
+A local studio in active development for video transcription, translation, and dubbing.
 
 **Electron · TypeScript · FastAPI**
 
-[Explorer le projet →](https://github.com/HeyCherif/dubroom-studio)
+[Explore project →](https://github.com/HeyCherif/dubroom-studio)
 
 </td>
 <td width="50%" valign="top">
 
 #### 🧭 FindMyFiliere
-Une application web pour rechercher une filière et découvrir des parcours adaptés à son profil.
+A web app for exploring study programs and discovering educational paths that match your interests.
 
 **Laravel · PHP · Tailwind CSS**
 
-[Explorer le projet →](https://github.com/HeyCherif/findmyfiliere)
+[Explore project →](https://github.com/HeyCherif/findmyfiliere)
 
 </td>
 </tr>
 </table>
 
-### Mes terrains d’exploration
+### What drives me
 
-- **Des applications utiles** : transformer un besoin concret en outil simple à utiliser.
-- **L’IA et les récits illustrés** : OCR, traduction, voix et outils de création.
-- **L’expérience desktop** : des interfaces visuelles pensées pour un usage quotidien.
+- **Useful software**: turning real needs into tools that are simple to use.
+- **AI and illustrated stories**: OCR, translation, voice, and creative tools.
+- **Desktop experiences**: visual interfaces designed for everyday use.
 
 ---
 
 <div align="center">
 
-**Imaginer. Construire. Améliorer.**
+**Imagine. Build. Refine.**
 
 </div>
 
