@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="assets/banner.svg" alt="HeyCherif — Des idées aux applications" width="100%" />
+
 ### Des idées aux applications.
 
 **Applications desktop · Intelligence artificielle · Outils créatifs**
